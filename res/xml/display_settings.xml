@@ -82,6 +82,12 @@
         android:fragment="com.android.settings.display.AdaptiveSleepSettings"
         settings:controller="com.android.settings.display.AdaptiveSleepPreferenceController" />
 
+    <Preference
+        android:key="network_traffic_settings"
+        android:title="@string/network_traffic_settings_title"
+        android:summary="@string/network_traffic_settings_summary"
+        android:fragment="com.crdroid.settings.fragments.Traffic" />
+
     <SwitchPreference
         android:key="auto_rotate"
         android:title="@string/accelerometer_title"
