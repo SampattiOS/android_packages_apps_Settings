@@ -90,4 +90,6 @@
     <string name="wifi_setup_wizard_title">Pilih jaringan Wi\u2011Fi</string>
     <string name="advanced_notifications_title">Setelan notifikasi lanjutan</string>
     <string name="peak_refresh_rate_summary_custom">Otomatis meningkatkan rasio pembaruan dari 60 menjadi %1$d Hz untuk beberapa konten. Meningkatkan penggunaan baterai.</string>
+    <string name="ignore_window_secure_title">Abaikan tanda keamanan jendela</string>
+    <string name="ignore_window_secure_summary">Ini menghapus batas tangkapan layar dan rekaman layar untuk semua aplikasi. Biasanya, aplikasi khusus diganti dengan area hitam dalam catatan. Ini bisa nyaman dalam beberapa kasus tetapi dapat menyebabkan kebocoran privasi. Setelah mengubah sakelar ini, Anda mungkin perlu memulai ulang aplikasi agar perubahan diterapkan</string>
 </resources>
